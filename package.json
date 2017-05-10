@@ -1,0 +1,21 @@
+{
+  "name": "dparse-duration",
+  "version": "1.0.0",
+  "description": "",
+  "license": "MIT",
+  "homepage": "http://github.com/dnode/dparse-duration",
+  "author": {
+    "name": "Sharaal",
+    "email": "developer@dragonprojects.de",
+    "url": "http://dragonprojects.de"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dnode/dparse-duration.git"
+  },
+  "readmeFilename": "README.md",
+  "main": "src/lib.js",
+  "dependencies": {
+    "parse-duration": "^0.1.1"
+  }
+}
